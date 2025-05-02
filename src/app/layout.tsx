@@ -1,6 +1,5 @@
 // src/app/layout.tsx
 
-import './globals.css' // pokud žádný CSS soubor nemáš, můžeš tento řádek smazat
 import type { Metadata } from 'next'
 import { ReactNode } from 'react'
 
